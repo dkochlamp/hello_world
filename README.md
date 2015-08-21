@@ -1,9 +1,9 @@
 # hello_world
 
-Edition
+EdiTIon
 
 Edition branche
 
 Edition branche 2 (avec commit message)
 
-Repository tuto
+Reposi tuto
