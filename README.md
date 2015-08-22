@@ -14,4 +14,4 @@ Reposi tuto
 
 Modif en ligne, suite
 
-Modif locale, bis
+Modif locale, bis, ter
