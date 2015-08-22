@@ -13,3 +13,5 @@ Correction Issue 1
 Reposi tuto
 
 Modif en ligne, suite
+
+Modif locale
